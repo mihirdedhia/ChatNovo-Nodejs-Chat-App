@@ -1,6 +1,6 @@
 # ChatNovo-Nodejs-Chat-App
 
-[ChatNovo](https://chatnovo-nodejs-chat-app.onrender.com/) is a real-time chat app with multiple chatting rooms built using using node.js and socket.io.
+[ChatNovo](https://chatnovo-nodejs-chat-app.onrender.com/) is a real-time chat app with multiple chatting rooms built using node.js and socket.io.
 
 Demo of the app click here [https://chatnovo-nodejs-chat-app.onrender.com](https://chatnovo-nodejs-chat-app.onrender.com/)
 
